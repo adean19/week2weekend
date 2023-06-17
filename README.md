@@ -41,4 +41,8 @@ When the project is completed, commit the final changes, sync all pull requests,
 
 
 ###### List group responsiblities below:
+
+# The entire code was written by both Nick and Renat; we switched up driving and navigating
+# throughout our Friday coding session.
+
 ###### Provide name and approxamite line numbers where each person wrote their code
